@@ -11,3 +11,5 @@ For demo, connect the wsg gripper and simply run:
 ```
 python demo.py
 ```
+
+To extend this library for more functionalities, please checkout the "GCL Gripper Control Language Reference Manual" by clicking Help -> Documentation -> GCL Reference Manual on your gripper's web interface.
